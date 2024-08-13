@@ -1,0 +1,35 @@
+.headerlinks{
+    font-style: Comic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    border: 15px;
+    border-color: black;
+    background-color: red;
+    color: black;
+} 
+.sections{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    display: flex;
+    flex-direction: row;
+    padding: 0%;
+    border: 50px;
+    border-color: lightcoral;
+    background-color: white;
+    color:black;
+    outline: auto;
+    outline-color: red;
+}
+.mywork{
+    font-style: oblique;
+}
+.contactme{
+    font-style: normal;
+
+}
